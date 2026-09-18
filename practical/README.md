@@ -141,7 +141,7 @@ Handling Cost  = VLOOKUP([Ship Mode], ShipCostLookup, 2, FALSE)
 Order Result   = IF([Profit] >= 0, "Profitable", "Loss")
 ```
 
-![Cleaned Data sample](assets/02_cleaned_data.png)
+![practical](assets/02_cleaned_data.png)
 
 ---
 
