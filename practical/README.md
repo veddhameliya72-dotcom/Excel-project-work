@@ -133,7 +133,7 @@ Pivots     Dashboard       Regression      What-If
 
 `Raw Data` is the untouched 9,994-row import (`tblOrders`) — never edited directly, kept as a source of truth. `Cleaned Data` (`tblOrdersClean`) is the working copy: dates converted to real date values, numeric columns enforced as true numbers, 225 stray characters removed from `Product Name`, duplicates checked (none found), and two formula columns added.
 
-![Raw Data sample](assets/01_raw_data.png)
+!practical/assetsassets/01_raw_data.png
 
 **Cleaned Data adds two live formula columns:**
 ```
